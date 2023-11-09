@@ -1,0 +1,72 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Mismatched",
+      "url": "https://media.gqindia.com/wp-content/uploads/2020/11/top-image-01-3.jpg",
+      "embedLink": "https://www.youtube.com/embed/LKLvEnK4t-I"
+    },
+    {
+      "id": "2",
+      "caption": "Arjit singh",
+      "url": "https://th.bing.com/th/id/OIP.NYcrN0NQDDnYb8yIRFfLigHaFQ?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/lHgtB7DuOD8"
+    },
+    {
+      "id": "3",
+      "caption": "Jawan",
+      "url": "https://th.bing.com/th/id/OIP.zQ3jgEsYVdlSJdLzjoJJ2wHaLH?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/QOAi3RNZooQ"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "series",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Mismatched",
+          "url": "https://media.gqindia.com/wp-content/uploads/2020/11/top-image-01-3.jpg",
+          "embedLink": "https://www.youtube.com/embed/LKLvEnK4t-I"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "hindi songs",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Arjit singh",
+          "url": "https://th.bing.com/th/id/OIP.NYcrN0NQDDnYb8yIRFfLigHaFQ?pid=ImgDet&rs=1",
+          "embedLink": "https://www.youtube.com/embed/lHgtB7DuOD8"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "G V Praksh songs",
+      "embedLink": "https://www.youtube.com/embed/Xo1pylYuICs",
+      "timeStamp": "11/07/2023, 09:34:20 AM",
+      "id": 5
+    },
+    {
+      "caption": "G V Praksh songs",
+      "embedLink": "https://www.youtube.com/embed/Xo1pylYuICs",
+      "timeStamp": "11/08/2023, 10:45:39 AM",
+      "id": 6
+    },
+    {
+      "caption": "G V Praksh songs",
+      "embedLink": "https://www.youtube.com/embed/Xo1pylYuICs",
+      "timeStamp": "11/09/2023, 09:23:10 AM",
+      "id": 7
+    },
+    {
+      "timeStamp": "11/09/2023, 10:17:26 AM",
+      "id": 8
+    }
+  ]
+}
